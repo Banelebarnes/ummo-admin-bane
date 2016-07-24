@@ -1,0 +1,58 @@
+<resources>
+    <string name="selectiondialogs_app_name">Selection Dialogs</string>
+
+    <!-- dialogs -->
+    <string name="selectiondialogs_icon_dialog_title">Select icon…</string>
+    <string name="selectiondialogs_color_dialog_title">Select color…</string>
+
+    <!-- selected item view -->
+    <string name="selectiondialogs_default_hint">hint</string>
+    <string name="selectiondialogs_default_item_name">text</string>
+    <string translatable="false" name="selectiondialogs_default_item_id">no_id</string>
+
+    <!-- Material Design colors names (500) -->
+
+    <string name="selectiondialogs_materialdesign500_red">Deposit 1</string>
+    <string name="selectiondialogs_materialdesign500_pink">Deposit 2</string>
+    <string name="selectiondialogs_materialdesign500_purple">Deposit 3</string>
+    <string name="selectiondialogs_materialdesign500_deep_purple">Withdrawal 1</string>
+    <string name="selectiondialogs_materialdesign500_indigo">Withdrawal 2</string>
+    <string name="selectiondialogs_materialdesign500_blue">Withdrawal 3</string>
+    <string name="selectiondialogs_materialdesign500_light_blue">Foreign Exchange 1</string>
+    <string name="selectiondialogs_materialdesign500_cyan">Foreign Exchange 2</string>
+    <string name="selectiondialogs_materialdesign500_teal">Foreign Exchange 3</string>
+    <string name="selectiondialogs_materialdesign500_green">Open Bank Account 1</string>
+    <string name="selectiondialogs_materialdesign500_light_green">Open Bank Account 2</string>
+    <string name="selectiondialogs_materialdesign500_lime">Open Bank Account 3</string>
+    <string name="selectiondialogs_materialdesign500_yellow">Enquiry 1</string>
+    <string name="selectiondialogs_materialdesign500_amber">Enquiry 2</string>
+    <string name="selectiondialogs_materialdesign500_orange">Enquiry 3</string>
+    <string name="selectiondialogs_materialdesign500_deep_orange">Forex Exchange 1</string>
+    <string name="selectiondialogs_materialdesign500_brown">Forex Exchange 2</string>
+    <string name="selectiondialogs_materialdesign500_grey">Forex Exchange 3</string>
+    <string name="selectiondialogs_materialdesign500_blue_grey">Forex Exchange 4</string>
+
+    <!-- Material Design colors ids (500) -->
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_red">red</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_pink">pink</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_purple">purple</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_deep_purple">deeppurple</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_indigo">indigo</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_blue">blue</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_light_blue">lightblue</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_cyan">cyan</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_teal">teal</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_green">green</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_light_green">lightgreen</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_lime">lime</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_yellow">yellow</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_amber">amber</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_orange">orange</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_deep_orange">deeporange</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_brown">brown</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_grey">gray</string>
+    <string translatable="false" name="selectiondialogs_materialdesign500_id_blue_grey">bluegray</string>
+
+    <!-- other -->
+    <string name="selectiondialogs_undefined">#undefined#</string>
+</resources>

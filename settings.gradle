@@ -1,0 +1,8 @@
+include ':app'
+include ':singleInputForm'
+include ':cardstack'
+include ':materiallettericon'
+include ':material-login'
+include ':library'
+include ':library-ui-test'
+include ':selection-dialogs'

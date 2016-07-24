@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaterialLogin</string>
+    <string name="login">LOGIN</string>
+    <string name="name">Email</string>
+    <string name="password">Password</string>
+    <string name="go">GO</string>
+    <string name="cellNumber">Cell Number</string>
+    <string name="userName">User Name</string>
+    <string name="serviceProvider">Service Provider</string>
+    <string name="serviceCategory">Service Category</string>
+    <string name="register">REGISTER</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="next">NEXT</string>
+</resources>

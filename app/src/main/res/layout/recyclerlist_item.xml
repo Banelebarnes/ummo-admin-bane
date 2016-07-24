@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools"
+    android:id="@+id/cardlist_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="5dp"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:orientation="vertical"
+    card_view:cardBackgroundColor="@android:color/white"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardElevation="@dimen/cardview_default_elevation">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingBottom="8dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="8dp">
+        <TextView
+            android:id="@+id/listitem_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android version name"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/listitem_subname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/listitem_name"
+            android:padding="3dp"
+            android:text="Test"
+            android:textColor="@color/ummoColor"
+            android:textSize="15sp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btn_edit"
+            app:backgroundTint="@color/ummoColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:src="@drawable/ic_create_white"
+            app:layout_anchor="@+id/appbar"
+            android:layout_alignParentRight="true"
+            app:layout_anchorGravity="bottom|right|end"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MasterQ.iml" filepath="$PROJECT_DIR$/MasterQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardstack/cardstack.iml" filepath="$PROJECT_DIR$/cardstack/cardstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-ui-test/library-ui-test.iml" filepath="$PROJECT_DIR$/library-ui-test/library-ui-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-login/material-login.iml" filepath="$PROJECT_DIR$/material-login/material-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materiallettericon/materiallettericon.iml" filepath="$PROJECT_DIR$/materiallettericon/materiallettericon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection-dialogs/selection-dialogs.iml" filepath="$PROJECT_DIR$/selection-dialogs/selection-dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleInputForm/singleInputForm.iml" filepath="$PROJECT_DIR$/singleInputForm/singleInputForm.iml" />
+    </modules>
+  </component>
+</project>
